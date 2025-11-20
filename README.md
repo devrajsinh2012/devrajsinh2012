@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Devrajsinh Gohil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Aspiring+Associate+Product+Manager+🚀;AI+%7C+AGI+%7C+Data+Enthusiast+🤖;Driving+Product+Innovation+%26+Growth+📈;Project+Management+Expert+💼;UX+Thinking+%7C+Team+Leadership+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Project+Coordinator+🚀;AI+%7C+AGI+%7C+Data+Enthusiast+🤖;Driving+Product+Innovation+%26+Growth+📈;Project+Management+Expert+💼;UX+Thinking+%7C+Team+Leadership+🎯" alt="Typing SVG" />
 </div>
 
 <div align="center">
