@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Devrajsinh Gohil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Project+Coordinator+🚀;AI+%7C+AGI+%7C+Data+Enthusiast+🤖;Driving+Product+Innovation+%26+Growth+📈;Project+Management+Expert+💼;UX+Thinking+%7C+Team+Leadership+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Project+Coordinator+🚀;AI+%7C+AGI+%7C+Product+%7C+Growth" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://devrajsinh-portoflio.web.app/" target="_blank">
+  <a href="https://devrajsinh-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/devrajsinh2012" target="_blank">
@@ -44,7 +44,7 @@
 ```yaml
 🎯 Profile:
   name: "Devrajsinh Gohil"
-  role: "Project Co-ordinator at codExalters"
+  role: "Project Coordinator at codExalters"
   location: "Ahmedabad, Gujarat, India 🇮🇳"
   
 💡 Expertise:
@@ -57,10 +57,10 @@
 🎨 Philosophy:
   - "Empathy-led design creates lasting impact"
   - "Business-aligned tech drives growth"
-  - "Continuous iteration breeds perfection"
+  - "Continuous iteration breeds improvement"
   
 📊 Current Focus:
-  - Prject-Led Growth Strategies
+  - Product-Led Growth Strategies
   - AI-Augmented Research
   - Data-Driven Decision Making
 ```
@@ -162,23 +162,20 @@
 timeline
     title Career Timeline
     
-    2025 : Chief Operating Officer
-         : Integers: Beyond the Decimal Point
-         : • Strategic Team Leadership
-         : • Digital Campaign Execution
-         : • Operational Excellence
+    2025 : Project Coordinator
+         : codExalters
+         : • Leading product coordination and cross-functional delivery
+         : • Roadmapping, stakeholder alignment & launch planning
     
     2024 : Project Management Intern
          : Orscope Technologies
-         : • Product Planning & Strategy
-         : • User Research & Analysis
-         : • Agile Implementation
+         : • Product planning & strategy support
+         : • User research & agile implementation
     
     2023 : Educational Mentor
          : Secondary School Teaching
-         : • Engaging Classroom Management
-         : • Foundational Learning Design
-         : • Student-Centric Approach
+         : • Classroom engagement & foundational learning design
+         : • Student-centric approach
 ```
 
 ### 🎯 Key Achievements
@@ -244,7 +241,7 @@ timeline
   <a href="https://linkedin.com/in/devrajsinh2012" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn_Chat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://devrajsinh-portoflio.web.app/" target="_blank">
+  <a href="https://devrajsinh-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Visit-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:djgohil2012@gmail.com">
@@ -264,7 +261,7 @@ timeline
   
   **✨ Let's build the future, one product decision at a time! ✨**
   
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+innovate+together!;Open+to+exciting+opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+innovate+together!;Open+to+exciting+opportunities" />
 </div>
 
 ---
