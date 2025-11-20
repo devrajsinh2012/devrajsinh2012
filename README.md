@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Devrajsinh Gohil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Project+Coordinator+🚀;AI+%7C+AGI+%7C+Product+%7C+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=800&height=70&lines=Hi+There!+I'm+Devrajsinh+Gohil+👋;Project+Coordinator+at+CodExalters+🚀;Bridging+Strategy,+Tech+%26+People+🌉;Empowering+Teams+through+Leadership+💼;Operations+%7C+Strategy+%7C+Tech+for+Good+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,6 +33,7 @@
   </a>
 </div>
 
+
 ---
 
 ## 🚀 About Me
@@ -41,16 +42,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
+*"Technology is just a language. My goal is to be the translator who uses it to build bridges between complex systems and the people who use them."*
+--- 
+
 ```yaml
 🎯 Profile:
   name: "Devrajsinh Gohil"
   role: "Project Coordinator at codExalters"
   location: "Ahmedabad, Gujarat, India 🇮🇳"
   
-💡 Expertise:
-  - Strategic Product Thinking & Roadmapping
-  - AI, AGI & Emerging Technology Integration  
-  - User Research & UX Strategy
+💡 Superpower:
+  - Translating 'Dev-Speak' to Business Goals
+  - Operational Process Optimization (The 'How')
+  - Empowering Teams through Mentorship & Guidance
+  - AI Emerging Technology Integration  
   - Agile & Data-Driven Product Delivery
   - Cross-functional Team Leadership
   
@@ -58,131 +63,153 @@
   - "Empathy-led design creates lasting impact"
   - "Business-aligned tech drives growth"
   - "Continuous iteration breeds improvement"
+
+❤️ Passion:
+  - Teaching & Educational Leadership
+  - Tech for Good (Social Impact Projects)
+  - Continuous Learning (Aspire & McKinsey Alumni)
   
-📊 Current Focus:
-  - Product-Led Growth Strategies
-  - AI-Augmented Research
-  - Data-Driven Decision Making
 ```
 
 <div align="center">
   
 ---
-
-## 🎓 Professional Certifications
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Certificate GIF"/>
-</div>
-
-### 🌟 Google Certified Professional
+### 🌟 Leadership & Strategy (My Core)
 <div align="left">
   
-- 🎯 **Google Project Management Specialization** - *Advanced PM Methodologies*
-- 📊 **Google Data Analytics Specialization** - *Business Intelligence & Insights*
-- 🤖 **Google AI Prompting Essentials** - *Next-Gen AI Integration*
+- 🏛️ **Aspire Leadership Program** - *Harvard Business School Curriculum*
+- 🚀 **McKinsey Forward Program** - *Problem Solving, Resilience & Adaptability*
+- 🎯 **Google Project Management Specialization** - *Agile & Scrum Methodologies*
+- 💼 **Career Essentials in Business Analysis** - *Microsoft & LinkedIn*
 - 🎨 **Google UX Design Professional Certificate** - *Human-Centered Design*
-- 📈 **Google Digital Marketing & E-commerce** - *Growth & Conversion*
-- 💼 **Google Business Intelligence** - *Strategic Data Analysis*
+- 📈 **Google Digital Marketing & E-commerce** - *Growth & Conversion Strategies*
 
 </div>
 
-### 🏢 IBM Enterprise Certified
+### 📊 Data & Technical Foundations (My Tools)
 <div align="left">
   
-- 🔬 **IBM: Getting Started with Enterprise Data Science**
-- 🚀 **IBM: Enterprise Data Science in Practice**
+- 📈 **Google Data Analytics Specialization** - *Making Data Speak*
+- 💼 **Google Business Intelligence** - *Strategic Decision Making*
+- 🐍 **Python Data Structures** - *University of Michigan*
+- 🤖 **Google AI Essentials** - *Future-Proofing Workflows*
+- ☁️ **Microsoft Azure Fundamentals** - *Cloud Infrastructure*
+- 🔬 **IBM Enterprise Data Science** - *Advanced Analytics*
 
 </div>
 
 ### 🌐 Technical Certifications
 <div align="left">
   
-- 🌐 **CCNA: Introduction to Networks** - *Cisco Networking*
-- 🔧 **CCNA: Switching, Routing & Wireless Essentials**
-- ☁️ **AWS Academy Cloud Foundations** - *Cloud Architecture*
+- 🌐 **CCNA: Introduction to Networks** - *Cisco Networking Foundations*
+- 🔧 **CCNA: Switching, Routing & Wireless Essentials** - *Network Infrastructure*
 - 🐧 **NDG Linux Essentials** - *System Administration*
-- 🐍 **Python Data Structures** - *University of Michigan*
 - 🤖 **Machine Learning with Scikit-Learn** - *ML Implementation*
 
 </div>
 
 ---
-
-## 🛠️ Technology Arsenal
+## 🛠️ The Toolkit
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Tech GIF"/>
 </div>
 
-### 📋 Product & Project Management
+### 📋 Ops & Management (My Happy Place)
 <div align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-EA3E23?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" />
 </div>
 
-### 🎨 Design & Creativity
+### 🎨 Design & Collaboration
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />
 </div>
 
-### 📊 Data Analytics & Intelligence
+### 📊 Analysis & Tech (The Support System)
 <div align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 ### ☁️ Cloud & Infrastructure
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
 ## 💼 Professional Journey
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Journey GIF"/>
-</div>
-
 ```mermaid
 timeline
-    title Career Timeline
+    title Impact Timeline
     
     2025 : Project Coordinator
-         : codExalters
-         : • Leading product coordination and cross-functional delivery
-         : • Roadmapping, stakeholder alignment & launch planning
+         : CodExalters
+         : • Bridging Strategy & Tech
+         : • Optimizing Client Workflows
+         : • Cross-functional Team Coordination
     
-    2024 : Project Management Intern
+    2024 : Operations Lead
+         : Integers: Beyond the Decimal Point
+         : • Reduced Turnaround Times by 35%
+         : • Mapped Workflows (ClickUp/Excel)
+         : • KPI Analysis & Process Optimization
+    
+         : Project Management Intern
          : Orscope Technologies
-         : • Product planning & strategy support
-         : • User research & agile implementation
+         : • Managed Agile Sprint Meetings
+         : • A/B Testing & User Research
+         : • Backlog Synchronization Across Teams
     
-    2023 : Educational Mentor
-         : Secondary School Teaching
-         : • Classroom engagement & foundational learning design
-         : • Student-centric approach
+    2022-24 : Tutor & Mentor
+         : Independent Educational Initiative
+         : • Foundation of Leadership Skills
+         : • Teaching Patience & Communication
+         : • Student-Centric Learning Approach
 ```
+### 🎯 Key Impact Areas
 
-### 🎯 Key Achievements
-- 🚀 **Led cross-functional teams** of 15+ members in product development
-- 📈 **Increased user engagement** by 40% through data-driven insights
-- 🎨 **Designed user experiences** that improved conversion rates by 25%
-- 💡 **Implemented agile methodologies** reducing development cycles by 30%
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔄 Operational Clarity**
+
+At Integers, I didn't just track tasks—I analyzed operational logs to surface KPIs like queue length and process time, giving the team clear direction and actionable insights.
+
+</td>
+<td width="33%" valign="top">
+
+**🤝 Agile Facilitation**
+
+At Orscope, I synchronized backlogs between Research and Marketing teams to keep dependencies clear and people aligned, reducing blockers by 40%.
+
+</td>
+<td width="33%" valign="top">
+
+**🌍 Tech for Good**
+
+Published IEEE research on Gujarati Sign Language Recognition to help bridge communication gaps using technology and AI.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -196,30 +223,32 @@ timeline
 <tr>
 <td align="center" width="50%">
 
-### 🚀 Product Innovation
-- 🤖 **AI-Augmented Product Strategy**
-- 📊 **Product-Led Growth Models**
-- 🎯 **OKR Implementation & Tracking**
-- 🔄 **Advanced Agile Frameworks**
+### 🚀 Operational Excellence
+- 🤖 **AI-Driven Process Improvement**
+- 📊 **Business Intelligence Strategies**
+- 🎯 **Stakeholder Psychology & Management**
+- 🔄 **Scalable Workflow Design**
+- 📈 **Data-Driven Decision Making**
 
 </td>
 <td align="center" width="50%">
 
-### 🎨 User Experience
-- 🧠 **Behavioral Product Design**
+### 🎨 Human-Centric Growth
+- 🧠 **Mentorship & Coaching Programs**
 - 📈 **Data Storytelling Techniques**
-- 🔍 **Advanced User Research Methods**
-- 💡 **Design Systems & Standards**
+- 🔍 **Social Impact Technology**
+- 💡 **Community Building Initiatives**
+- 🌱 **Sustainable Growth Strategies**
 
 </td>
 </tr>
 </table>
 
-### 🌟 Learning Goals for 2025
-- [ ] **Advanced Product Analytics** - Mastering conversion funnel optimization
-- [ ] **AI Product Management** - Building AI-first product strategies  
-- [ ] **Leadership Excellence** - Scaling high-performing product teams
-- [ ] **Growth Hacking** - Implementing viral product features
+### 🌟 Current Focus Areas
+- [ ] **Advanced Operational Analytics** - Leveraging AI for workflow optimization
+- [ ] **Leadership Development** - Building high-performing, empowered teams
+- [ ] **Tech for Social Impact** - Creating solutions that matter
+- [ ] **Process Automation** - Reducing manual work, increasing efficiency
 
 ---
 
@@ -229,13 +258,14 @@ timeline
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" alt="Collaboration GIF"/>
 </div>
 
-### 💬 I'd Love to Discuss:
-- 🚀 **Product Strategy & Roadmapping**
-- 🤖 **AI Integration in Products**
-- 📊 **Data-Driven Decision Making**
-- 👥 **Team Leadership & Culture**
-- 🎯 **User-Centric Innovation**
-
+### 💬 I'm Open To Discussing:
+- 🚀 **How to optimize your startup's operations**
+- 🤖 **Leveraging AI for business efficiency**
+- 📊 **Teaching & Educational Initiatives**
+- 👥 **Connecting people with the right tech solutions**
+- 🎯 **Strategic project coordination and team leadership**
+- 🌍 **Tech for social good and impact projects**
+  
 ### 📞 Get In Touch:
 <div align="center">
   <a href="https://linkedin.com/in/devrajsinh2012" target="_blank">
@@ -250,19 +280,22 @@ timeline
 </div>
 
 ---  
-### 💭 My Product Philosophy
   
-*"A great product manager isn't just a feature factory. They're the voice of the user, the architect of strategy, and the heartbeat of innovation."*
+### 💭 My Philosophy
+  
+*"Efficiency isn't about working harder. It's about clearing the clutter so people can do their best work."*
+
+---
 
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Rocket"/>
   
-  **✨ Let's build the future, one product decision at a time! ✨**
+  **✨ Let's build a better future, together! ✨**
   
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+innovate+together!;Open+to+exciting+opportunities" />
-</div>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+grow!;Always+happy+to+help+and+collaborate!" />
 
 ---
 
