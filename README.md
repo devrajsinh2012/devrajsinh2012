@@ -44,9 +44,8 @@
 ```yaml
 🎯 Profile:
   name: "Devrajsinh Gohil"
-  role: "Associate Product Manager | Ex-COO | PM Intern"
-  location: "Rajkot, Gujarat, India 🇮🇳"
-  status: "Open to opportunities"
+  role: "Project Co-ordinator at codExalters"
+  location: "Ahmedabad, Gujarat, India 🇮🇳"
   
 💡 Expertise:
   - Strategic Product Thinking & Roadmapping
@@ -61,8 +60,8 @@
   - "Continuous iteration breeds perfection"
   
 📊 Current Focus:
-  - Product-Led Growth Strategies
-  - AI-Augmented Product Development
+  - Prject-Led Growth Strategies
+  - AI-Augmented Research
   - Data-Driven Decision Making
 ```
 
